@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GetMainPageFilms.getHtmlDataForPopular() -&gt; ():GetMainPageFilms.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "i">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GetMainPageFilms.getHtmlData() -&gt; ():GetMainPageFilms.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "htmlData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
